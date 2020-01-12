@@ -4,7 +4,7 @@ long switch1(long *, long *, long);
 
 extern long switch2(long *, long *, long);
 
-int main() {
+int main1() {
     long x, y, z, result;
     long x1, y1, z1, result1;
     printf("Enter x, y and z: ");
